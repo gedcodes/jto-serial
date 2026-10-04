@@ -1,0 +1,16 @@
+{
+  "name": "jto-serial",
+  "version": "1.0.0",
+  "description": "Marktel JTO Serial",
+  "main": "app.js",
+  "author": "Noviehp",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "serialport": "^9.2.8",
+    "websocket": "^1.0.34",
+    "ws": "^8.3.0"
+  }
+}
